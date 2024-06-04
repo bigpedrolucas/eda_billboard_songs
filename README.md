@@ -14,3 +14,14 @@
 2. A correlação entre duração da música e popularidade é positivamente fraca
 3. Ariana Grande, Billie Elish, Drake e The Weeknd lideram a lista com 4 músicas mais populares cada um
 4. Os dois álbums mais populares por número de músicas e popularidade média são: Thank U, Next (Ariana Grande, Músicas Populares: 2, Popularidade: 98.5) e BE (BTS, Músicas: 2, Popularidade: 96)
+
+
+<img src="https://github.com/bigpedrolucas/eda_billboard_songs/blob/master/charts/fig2.png">
+
+<img src="https://github.com/bigpedrolucas/eda_billboard_songs/blob/master/charts/fig3.png">
+
+<img src="https://github.com/bigpedrolucas/eda_billboard_songs/blob/master/charts/fig1.png">
+
+<img src="https://github.com/bigpedrolucas/eda_billboard_songs/blob/master/charts/fig4.png">
+
+<img src="https://github.com/bigpedrolucas/eda_billboard_songs/blob/master/charts/fig5.png">
